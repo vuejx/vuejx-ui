@@ -1,0 +1,20 @@
+.radio-wrapper, .checkbox-wrapper {
+    @apply flex items-center;
+}
+.radio-wrapper input, .checkbox-wrapper input {
+    margin-top: 2px;
+}
+.radio-wrapper label, .checkbox-wrapper label {
+    margin-left: 5px;
+}
+.radio-wrapper-inline, .checkbox-wrapper-inline {
+    @apply flex flex-wrap;
+}
+.radio-wrapper-inline > .radio-wrapper:not(:first-child),  .checkbox-wrapper-inline > .checkbox-wrapper:not(:first-child) {
+    margin-left: 15px;
+}
+
+
+body {
+    background-color: lightgreen;
+}

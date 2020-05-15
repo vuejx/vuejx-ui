@@ -1,9 +1,9 @@
 <template>
-  <div class="h-screen bg-gray-100">
+  <div class="bg-gray-100 min-h-screen min-h-full">
     <vn-navigation></vn-navigation>
     <div class="container mx-auto mt-4">
       <div class="flex flex-wrap">
-        <div class="w-full sm:w-3/12 lg:w-2/12 pr-4 tex-left">
+        <div class="w-full sm:w-3/12 lg:w-2/12 tex-left">
           <document-menu></document-menu>
         </div>
         <div class="w-full sm:w-9/12 lg:w-10/12 px-4 sm:pr-10 lg:pr-4">

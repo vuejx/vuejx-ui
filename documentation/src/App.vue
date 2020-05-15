@@ -9,5 +9,5 @@ export default {
 </script>
 
 <style>
-@import "./assets/tailwind.min.css";
+  @import './assets/tailwind.css';
 </style>

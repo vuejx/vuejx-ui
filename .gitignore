@@ -102,3 +102,8 @@ dist
 
 # TernJS port file
 .tern-port
+gateway_ui/.DS_Store
+gateway_ui/package-lock.json
+tailwindcss-1.4.6_x/.DS_Store
+.DS_Store
+vuejx-text/package-lock.json

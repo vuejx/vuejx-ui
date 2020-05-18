@@ -1,5 +1,5 @@
 <template>
-  <nav class="relative flex flex-wrap items-center justify-between px-2 py-0 navbar-expand-lg bg-white mb-3 text-gray-900 border-b-1">
+  <nav class="relative flex flex-wrap items-center justify-between px-2 py-0 navbar-expand-lg bg-white mb-3 text-gray-900 border-b">
     <div class="container px-4 mx-auto flex flex-wrap items-center justify-between">
       <div class="w-full relative flex justify-between lg:w-auto lg:static lg:block lg:justify-start">
         <a class="text-sm font-bold leading-relaxed inline-block mr-4 py-2 whitespace-no-wrap uppercase " href="javascript:;" @click="backToHome">

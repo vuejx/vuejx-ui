@@ -36,7 +36,7 @@
       <a
         class="text-gray-800 hover:text-gray-900 text-base uppercase font-bold block py-1 px-4 no-underline"
             href="javascript:;"
-      >Môi trường phát triển</a>
+      >Phát triển</a>
       <ul class="block flex-wrap list-none pl-0 mb-0 mt-0">
         <li>
           <a
